@@ -1,2 +1,2 @@
 # TheoraPlay-Tremor
-Ryan Gordon's TheoraPlay library with tremor fixed point decoder
+This is a fork of the TheoraPlay library that uses tremor instead of libvorbis.
